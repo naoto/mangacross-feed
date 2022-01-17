@@ -4,10 +4,94 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[博多弁の女の子はかわいいと思いませんか？]]></title>
-    <link>https://mangacross.jp/comics/hakataben</link>
+    <link>https://mangacross.jp/api/comics/hakataben.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/hakataben.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 17 Jan 2022 08:44:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jan 2022 08:49:07 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[特別編]]></title>
+      <link>https://mangacross.jp/comics/hakataben/62</link>
+      
+        <pubDate>Tue, 07 Dec 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ドーム]]></description>
+      <content:encoded><![CDATA[ドーム]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/62</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/b7QWuNBluDB_cDYQve6OHKTik0yZQpaPFBW56fKFJgI/episode_thumbnail/thumb_double.png?1638511129" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[特別編]]></title>
+      <link>https://mangacross.jp/comics/hakataben/61</link>
+      
+        <pubDate>Tue, 23 Nov 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[大宰府天満宮]]></description>
+      <content:encoded><![CDATA[大宰府天満宮]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/61</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/4f6hd5NVSjDUwNPZacAOv7Dk9g-PCLVDOrX4IPHUE5M/episode_thumbnail/thumb_double.png?1637302221" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第58話]]></title>
+      <link>https://mangacross.jp/comics/hakataben/60</link>
+      
+        <pubDate>Tue, 09 Nov 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[かしいかえんよ永遠に]]></description>
+      <content:encoded><![CDATA[かしいかえんよ永遠に]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/60</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/smEUp-sX8F3PeWHALWzMaqMrYBOVDfKl4tAp6tfj5fw/episode_thumbnail/thumb_double.png?1636098556" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第3話]]></title>
+      <link>https://mangacross.jp/comics/hakataben/3</link>
+      
+        <pubDate>Tue, 28 Jun 2016 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[どうしたらいいとかいな]]></description>
+      <content:encoded><![CDATA[どうしたらいいとかいな]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/3</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/RDJ7UcxeoYoTXYobzvGnjIqh5yFW3yrd10Uu7M2Ap_E/episode_thumbnail/thumb_double.png?1577437981" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第2話]]></title>
+      <link>https://mangacross.jp/comics/hakataben/2</link>
+      
+        <pubDate>Tue, 21 Jun 2016 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[とっとーと]]></description>
+      <content:encoded><![CDATA[とっとーと]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/2</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/0NkXFoC62KIGGGl5Iw9legPLlwWQsJ4u_1dMAsNX5CQ/episode_thumbnail/thumb_double.png?1577437926" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/hakataben/1</link>
+      
+        <pubDate>Tue, 14 Jun 2016 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[博多乃どん子、東京に現わる]]></description>
+      <content:encoded><![CDATA[博多乃どん子、東京に現わる]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/al7lidNXxIYaQ063w7VuheJdMR0dCFQ4CVbEThZEzkE/episode_thumbnail/thumb_double.png?1577437885" length="0" type="image/png"/>
+      
+    </item>
     
   </channel>
 </rss>

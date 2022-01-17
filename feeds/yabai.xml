@@ -4,10 +4,150 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title><![CDATA[僕の心のヤバイやつ]]></title>
-    <link>https://mangacross.jp/comics/yabai</link>
+    <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 17 Jan 2022 08:44:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jan 2022 08:49:03 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.88]]></title>
+      <link>https://mangacross.jp/comics/yabai/93</link>
+      
+        <pubDate>Tue, 11 Jan 2022 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は何を言っているのか]]></description>
+      <content:encoded><![CDATA[僕は何を言っているのか]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/93</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/s1nwgFmIsOsX-VNp6emI9k0jH6Ap1xy9ojP5ckOLdB8/episode_thumbnail/thumb_double.png?1641534898" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Karte.87]]></title>
+      <link>https://mangacross.jp/comics/yabai/92</link>
+      
+        <pubDate>Tue, 28 Dec 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕はダブルデートする]]></description>
+      <content:encoded><![CDATA[僕はダブルデートする]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/92</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/2VxpmFfqQeGeIe-fj9ZM2G8dFuD-hSFwOcgmfCNl0UI/episode_thumbnail/thumb_double.png?1640240504" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Karte.86]]></title>
+      <link>https://mangacross.jp/comics/yabai/91</link>
+      
+        <pubDate>Tue, 14 Dec 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕はキモい]]></description>
+      <content:encoded><![CDATA[僕はキモい]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/91</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/ZnadCkxNwW9eIeKDtisv8gBRvuoKm_wNa_bNMAjFVEI/episode_thumbnail/thumb_double.png?1639106216" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Karte.30]]></title>
+      <link>https://mangacross.jp/comics/yabai/32</link>
+      
+        <pubDate>Tue, 02 Jul 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は溶かした]]></description>
+      <content:encoded><![CDATA[僕は溶かした]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/32</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/zWlBcrWxiiyOw4ztZDQhYeajl89Hs1rKO6Pgt-0U_kY/episode_thumbnail/thumb_double.jpg?1561627449" length="0" type="image/jpeg"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Karte.29]]></title>
+      <link>https://mangacross.jp/comics/yabai/31</link>
+      
+        <pubDate>Tue, 18 Jun 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕の「好き」の境目]]></description>
+      <content:encoded><![CDATA[僕の「好き」の境目]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/31</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Gzr3ceL7ULOpKpvq-gU4Il95YQapemFJD4Rb6TqAaUE/episode_thumbnail/thumb_double.jpg?1560505474" length="0" type="image/jpeg"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Karte.28]]></title>
+      <link>https://mangacross.jp/comics/yabai/30</link>
+      
+        <pubDate>Tue, 04 Jun 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は学校が楽しい]]></description>
+      <content:encoded><![CDATA[僕は学校が楽しい]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/30</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/MCcMH0cumXNOI5w9_ZhfUh6qQbI9l62cloI3oSFck9I/episode_thumbnail/thumb_double.jpg?1559272310" length="0" type="image/jpeg"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Karte.27]]></title>
+      <link>https://mangacross.jp/comics/yabai/29</link>
+      
+        <pubDate>Tue, 21 May 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕らははぐれた]]></description>
+      <content:encoded><![CDATA[僕らははぐれた]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/29</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/qUoj3jWllkvT-jYLhZzI1m5cQgAQl7OczHgPsfm_uu0/episode_thumbnail/thumb_double.jpg?1558079384" length="0" type="image/jpeg"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Karte.26]]></title>
+      <link>https://mangacross.jp/comics/yabai/28</link>
+      
+        <pubDate>Tue, 07 May 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は封じた]]></description>
+      <content:encoded><![CDATA[僕は封じた]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/28</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/v69h_VdLyLjFBj7jJvM0BH8gEPI5D4sIR9ej5Wjk-Jo/episode_thumbnail/thumb_double.jpg?1556171186" length="0" type="image/jpeg"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Karte.25]]></title>
+      <link>https://mangacross.jp/comics/yabai/27</link>
+      
+        <pubDate>Tue, 09 Apr 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は平静を装った]]></description>
+      <content:encoded><![CDATA[僕は平静を装った]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/27</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/-_eNj5VyHifPWwpS6U1SyX5AL9KaCNP7rmnqwT0PnR8/episode_thumbnail/thumb_double.jpg?1554362235" length="0" type="image/jpeg"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Karte.24]]></title>
+      <link>https://mangacross.jp/comics/yabai/26</link>
+      
+        <pubDate>Tue, 12 Mar 2019 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は選ばれない]]></description>
+      <content:encoded><![CDATA[僕は選ばれない]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/26</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/XQRziKVLxyET73lmTl-IA0GXsaQk9Im6HKKzFsIxifQ/episode_thumbnail/thumb_double.jpg?1552023602" length="0" type="image/jpeg"/>
+      
+    </item>
     
   </channel>
 </rss>
