@@ -8,9 +8,9 @@ selectors: &selectors
 pages:
   - id: "yabai"
     title: 僕の心のヤバイやつ
-    url: https://mangacross.jp/comics/yabai
+    url: https://mangacross.jp/api/comics/yabai.json?type=public
     <<: *selectors
   - id: "hakataben"
     title: 博多弁の女の子はかわいいと思いませんか？
-    url: https://mangacross.jp/comics/hakataben
+    url: https://mangacross.jp/api/comics/hakataben.json?type=public
     <<: *selectors
