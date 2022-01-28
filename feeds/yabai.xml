@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Thu, 27 Jan 2022 15:15:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jan 2022 15:15:37 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[Karte.89]]></title>
@@ -48,6 +48,20 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/92</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/2VxpmFfqQeGeIe-fj9ZM2G8dFuD-hSFwOcgmfCNl0UI/episode_thumbnail/thumb_double.png?1640240504" length="0" type="image/png"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Karte.86]]></title>
+      <link>https://mangacross.jp/comics/yabai/91</link>
+      
+        <pubDate>Tue, 14 Dec 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕はキモい]]></description>
+      <content:encoded><![CDATA[僕はキモい]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/91</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/ZnadCkxNwW9eIeKDtisv8gBRvuoKm_wNa_bNMAjFVEI/episode_thumbnail/thumb_double.png?1639106216" length="0" type="image/png"/>
       
     </item>
     
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/27</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/-_eNj5VyHifPWwpS6U1SyX5AL9KaCNP7rmnqwT0PnR8/episode_thumbnail/thumb_double.jpg?1554362235" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.24]]></title>
-      <link>https://mangacross.jp/comics/yabai/26</link>
-      
-        <pubDate>Tue, 12 Mar 2019 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は選ばれない]]></description>
-      <content:encoded><![CDATA[僕は選ばれない]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/26</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/XQRziKVLxyET73lmTl-IA0GXsaQk9Im6HKKzFsIxifQ/episode_thumbnail/thumb_double.jpg?1552023602" length="0" type="image/jpeg"/>
       
     </item>
     
