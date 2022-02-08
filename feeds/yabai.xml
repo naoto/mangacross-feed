@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 07 Feb 2022 15:15:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Feb 2022 15:15:11 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.90]]></title>
+      <link>https://mangacross.jp/comics/yabai/95</link>
+      
+        <pubDate>Tue, 08 Feb 2022 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕はややこしい]]></description>
+      <content:encoded><![CDATA[僕はややこしい]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/95</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/IaTe5aX0yzChhircRVXwa5OCHvtdz8sVVjvLOYiefLg/episode_thumbnail/thumb_double.png?1644203432" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.89]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/93</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/s1nwgFmIsOsX-VNp6emI9k0jH6Ap1xy9ojP5ckOLdB8/episode_thumbnail/thumb_double.png?1641534898" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.87]]></title>
-      <link>https://mangacross.jp/comics/yabai/92</link>
-      
-        <pubDate>Tue, 28 Dec 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕はダブルデートする]]></description>
-      <content:encoded><![CDATA[僕はダブルデートする]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/92</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/2VxpmFfqQeGeIe-fj9ZM2G8dFuD-hSFwOcgmfCNl0UI/episode_thumbnail/thumb_double.png?1640240504" length="0" type="image/png"/>
       
     </item>
     
