@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 21 Feb 2022 15:17:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Feb 2022 15:16:57 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.91]]></title>
+      <link>https://mangacross.jp/comics/yabai/96</link>
+      
+        <pubDate>Tue, 22 Feb 2022 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕らはゴールした]]></description>
+      <content:encoded><![CDATA[僕らはゴールした]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/96</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/aNIfJuG5Bxyp3YPwP6HSilNHPxQOeYDI54Z175QRiNg/episode_thumbnail/thumb_double.png?1645160330" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.90]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/94</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/ds3JPgef47TpLZP7pjpkzync5Is_DHTwl63QNDeVH4E/episode_thumbnail/thumb_double.png?1642733945" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.88]]></title>
-      <link>https://mangacross.jp/comics/yabai/93</link>
-      
-        <pubDate>Tue, 11 Jan 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は何を言っているのか]]></description>
-      <content:encoded><![CDATA[僕は何を言っているのか]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/93</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/s1nwgFmIsOsX-VNp6emI9k0jH6Ap1xy9ojP5ckOLdB8/episode_thumbnail/thumb_double.png?1641534898" length="0" type="image/png"/>
       
     </item>
     
