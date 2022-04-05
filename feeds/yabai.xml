@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 04 Apr 2022 15:17:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Apr 2022 15:17:50 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.94]]></title>
+      <link>https://mangacross.jp/comics/yabai/99</link>
+      
+        <pubDate>Tue, 05 Apr 2022 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕らは夜更かしした]]></description>
+      <content:encoded><![CDATA[僕らは夜更かしした]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/99</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/uWw_PI6yMEE6KKX0r95nWBWVTNSnFJbFzhMgj41QtQw/episode_thumbnail/thumb_double.png?1648805122" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.93]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/97</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/TZ0-bLNKVkvaAA4BycJUki-CgqjjlusZf_y5D6ecIMU/episode_thumbnail/thumb_double.png?1646371878" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.91]]></title>
-      <link>https://mangacross.jp/comics/yabai/96</link>
-      
-        <pubDate>Tue, 22 Feb 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕らはゴールした]]></description>
-      <content:encoded><![CDATA[僕らはゴールした]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/96</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/aNIfJuG5Bxyp3YPwP6HSilNHPxQOeYDI54Z175QRiNg/episode_thumbnail/thumb_double.png?1645160330" length="0" type="image/png"/>
       
     </item>
     
