@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/hakataben.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/hakataben.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 11 Apr 2022 15:18:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Apr 2022 15:18:50 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[特別編]]></title>
+      <link>https://mangacross.jp/comics/hakataben/69</link>
+      
+        <pubDate>Tue, 12 Apr 2022 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[巨大イチゴ]]></description>
+      <content:encoded><![CDATA[巨大イチゴ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/69</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/MbMQHZSAS7A6AXxLy6YQeONhsXns8AuYPk9DFCD0iFY/episode_thumbnail/thumb_double.png?1649320474" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第61話（後編）]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/67</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/C2_7DlFVQFog2yizbWgxprXXV5rV33sIn35bmAVfJUA/episode_thumbnail/thumb_double.png?1647575404" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第60話]]></title>
-      <link>https://mangacross.jp/comics/hakataben/66</link>
-      
-        <pubDate>Tue, 08 Mar 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[バレンタインとホワイトデー]]></description>
-      <content:encoded><![CDATA[バレンタインとホワイトデー]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/66</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/CB1-3WEODX6V4MWIVD8qeqPR0aklK8MLg-az4yWD9Rw/episode_thumbnail/thumb_double.png?1646298366" length="0" type="image/png"/>
       
     </item>
     
