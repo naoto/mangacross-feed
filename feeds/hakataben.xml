@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/hakataben.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/hakataben.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 13 Apr 2022 15:17:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Apr 2022 15:17:26 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[特別編]]></title>
@@ -19,7 +19,7 @@
       <content:encoded><![CDATA[巨大イチゴ]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/69</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/MbMQHZSAS7A6AXxLy6YQeONhsXns8AuYPk9DFCD0iFY/episode_thumbnail/thumb_double.png?1649320474" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/MbMQHZSAS7A6AXxLy6YQeONhsXns8AuYPk9DFCD0iFY/episode_thumbnail/thumb_double.png?1649320474" length="0" type=""/>
       
     </item>
     
@@ -33,7 +33,7 @@
       <content:encoded><![CDATA[いちごハンティング]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/68</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/QorOzzNHSl7F2EhqYNRW1EJjHhEwLXUFIxtd3r5a0rw/episode_thumbnail/thumb_double.png?1648802989" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/QorOzzNHSl7F2EhqYNRW1EJjHhEwLXUFIxtd3r5a0rw/episode_thumbnail/thumb_double.png?1648802989" length="0" type=""/>
       
     </item>
     
@@ -47,7 +47,7 @@
       <content:encoded><![CDATA[いちごハンティング]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/67</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/C2_7DlFVQFog2yizbWgxprXXV5rV33sIn35bmAVfJUA/episode_thumbnail/thumb_double.png?1647575404" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/C2_7DlFVQFog2yizbWgxprXXV5rV33sIn35bmAVfJUA/episode_thumbnail/thumb_double.png?1647575404" length="0" type=""/>
       
     </item>
     
@@ -61,7 +61,7 @@
       <content:encoded><![CDATA[どうしたらいいとかいな]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/3</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/RDJ7UcxeoYoTXYobzvGnjIqh5yFW3yrd10Uu7M2Ap_E/episode_thumbnail/thumb_double.png?1577437981" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/RDJ7UcxeoYoTXYobzvGnjIqh5yFW3yrd10Uu7M2Ap_E/episode_thumbnail/thumb_double.png?1577437981" length="0" type=""/>
       
     </item>
     
@@ -75,7 +75,7 @@
       <content:encoded><![CDATA[とっとーと]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/2</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/0NkXFoC62KIGGGl5Iw9legPLlwWQsJ4u_1dMAsNX5CQ/episode_thumbnail/thumb_double.png?1577437926" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/0NkXFoC62KIGGGl5Iw9legPLlwWQsJ4u_1dMAsNX5CQ/episode_thumbnail/thumb_double.png?1577437926" length="0" type=""/>
       
     </item>
     
@@ -89,7 +89,7 @@
       <content:encoded><![CDATA[博多乃どん子、東京に現わる]]></content:encoded>
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/1</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/al7lidNXxIYaQ063w7VuheJdMR0dCFQ4CVbEThZEzkE/episode_thumbnail/thumb_double.png?1577437885" length="0" type="image/png"/>
+        <enclosure url="https://mangacross.jp/images/episode/al7lidNXxIYaQ063w7VuheJdMR0dCFQ4CVbEThZEzkE/episode_thumbnail/thumb_double.png?1577437885" length="0" type=""/>
       
     </item>
     
