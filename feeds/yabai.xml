@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 18 Apr 2022 15:16:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Apr 2022 15:17:38 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.95]]></title>
+      <link>https://mangacross.jp/comics/yabai/100</link>
+      
+        <pubDate>Tue, 19 Apr 2022 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕らは反省した]]></description>
+      <content:encoded><![CDATA[僕らは反省した]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/100</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/rAqm8_PFmHc-ppZZ97Gbq9kDjSviiDNaxQiSsjY0k1M/episode_thumbnail/thumb_double.png?1650001315" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.94]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/98</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/XmFJD_DdXou6Bpjm2GCe7gZ6GGp8VfA1QFsZpnFDzM4/episode_thumbnail/thumb_double.png?1647573960" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.92]]></title>
-      <link>https://mangacross.jp/comics/yabai/97</link>
-      
-        <pubDate>Tue, 08 Mar 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は生まれた]]></description>
-      <content:encoded><![CDATA[僕は生まれた]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/97</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/TZ0-bLNKVkvaAA4BycJUki-CgqjjlusZf_y5D6ecIMU/episode_thumbnail/thumb_double.png?1646371878" length="0" type=""/>
       
     </item>
     
