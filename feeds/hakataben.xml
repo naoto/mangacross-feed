@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/hakataben.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/hakataben.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 25 Apr 2022 15:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Apr 2022 15:17:33 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[特別編]]></title>
+      <link>https://mangacross.jp/comics/hakataben/71</link>
+      
+        <pubDate>Tue, 26 Apr 2022 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[ポリタンク]]></description>
+      <content:encoded><![CDATA[ポリタンク]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/71</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/0rPx_3srJTkDK_2tQx9hT07B0W41oirHyJc9_aqdSJs/episode_thumbnail/thumb_double.png?1650615384" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第62話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/69</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/MbMQHZSAS7A6AXxLy6YQeONhsXns8AuYPk9DFCD0iFY/episode_thumbnail/thumb_double.png?1649320474" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第61話（後編）]]></title>
-      <link>https://mangacross.jp/comics/hakataben/68</link>
-      
-        <pubDate>Tue, 05 Apr 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[いちごハンティング]]></description>
-      <content:encoded><![CDATA[いちごハンティング]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/68</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/QorOzzNHSl7F2EhqYNRW1EJjHhEwLXUFIxtd3r5a0rw/episode_thumbnail/thumb_double.png?1648802989" length="0" type=""/>
       
     </item>
     
