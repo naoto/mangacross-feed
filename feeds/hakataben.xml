@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/hakataben.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/hakataben.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 16 May 2022 15:19:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 May 2022 15:22:59 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第64話]]></title>
+      <link>https://mangacross.jp/comics/hakataben/73</link>
+      
+        <pubDate>Tue, 17 May 2022 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[にわかせんぺいで仲直り2]]></description>
+      <content:encoded><![CDATA[にわかせんぺいで仲直り2]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/73</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/VLVx83A3DR8A6P0ebR3wNA7pes0ZsZF5ICRLNhvtkKA/episode_thumbnail/thumb_double.png?1652420589" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第63話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/71</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/0rPx_3srJTkDK_2tQx9hT07B0W41oirHyJc9_aqdSJs/episode_thumbnail/thumb_double.png?1650615384" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第62話]]></title>
-      <link>https://mangacross.jp/comics/hakataben/70</link>
-      
-        <pubDate>Tue, 19 Apr 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[もつもつパラダイス]]></description>
-      <content:encoded><![CDATA[もつもつパラダイス]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/70</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/zzBRRfkcXGSY1rJJ7o6gV2LesPZRFMH4k4At_XlJUAA/episode_thumbnail/thumb_double.png?1650002681" length="0" type=""/>
       
     </item>
     
