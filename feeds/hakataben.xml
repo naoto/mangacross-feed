@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/hakataben.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/hakataben.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 13 Jun 2022 15:23:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jun 2022 15:17:16 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第66話]]></title>
+      <link>https://mangacross.jp/comics/hakataben/75</link>
+      
+        <pubDate>Tue, 14 Jun 2022 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[やーっ！ で立ち上がれ！]]></description>
+      <content:encoded><![CDATA[やーっ！ で立ち上がれ！]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/75</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/xjm4vXsPQq-swCmlq97PexbSxQNXcsqZGGcLVlsLmhk/episode_thumbnail/thumb_double.png?1654754622" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第65話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/73</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/VLVx83A3DR8A6P0ebR3wNA7pes0ZsZF5ICRLNhvtkKA/episode_thumbnail/thumb_double.png?1652420589" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第63話]]></title>
-      <link>https://mangacross.jp/comics/hakataben/72</link>
-      
-        <pubDate>Tue, 03 May 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[走れ！ 豚骨パワーで！]]></description>
-      <content:encoded><![CDATA[走れ！ 豚骨パワーで！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/72</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/vRYvgw1LDQ6oCSyJoatqduUPnKUe-BfEASAXaiXDGcY/episode_thumbnail/thumb_double.png?1651041046" length="0" type=""/>
       
     </item>
     
