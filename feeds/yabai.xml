@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 04 Jul 2022 15:16:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jul 2022 15:22:22 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.100]]></title>
+      <link>https://mangacross.jp/comics/yabai/106</link>
+      
+        <pubDate>Tue, 05 Jul 2022 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕の愛しき狭い世界]]></description>
+      <content:encoded><![CDATA[僕の愛しき狭い世界]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/106</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/WIPf67bW_m3ikVasfRPpT-761NgB_xb83Y9GbnOe2tI/episode_thumbnail/thumb_double.png?1656573686" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.99]]></title>
@@ -48,20 +62,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/103</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/GiwodD8qMvsB77kKMPlV81YLuh64HEOc5-EdMExyGc0/episode_thumbnail/thumb_double.jpg?1653292075" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.97]]></title>
-      <link>https://mangacross.jp/comics/yabai/102</link>
-      
-        <pubDate>Tue, 24 May 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕はただ心配]]></description>
-      <content:encoded><![CDATA[僕はただ心配]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/102</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/tvy4MaCnNfpdWp6hirXbjH3sr_bCZNLNO1L6s-iv7rc/episode_thumbnail/thumb_double.png?1653025288" length="0" type=""/>
       
     </item>
     
