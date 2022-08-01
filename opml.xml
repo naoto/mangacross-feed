@@ -6,9 +6,9 @@
   <body>
     <outline text="Weneedfeed" title="Weneedfeed">
       
-        <outline type="rss" text="僕の心のヤバイやつ" title="僕の心のヤバイやつ" xmlUrl="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" htmlUrl="https://mangacross.jp/api/comics/yabai.json?type=public"/>
+        <outline type="rss" attr="僕の心のヤバイやつ" title="僕の心のヤバイやつ" xmlUrl="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" htmlUrl="https://mangacross.jp/api/comics/yabai.json?type=public"/>
       
-        <outline type="rss" text="博多弁の女の子はかわいいと思いませんか？" title="博多弁の女の子はかわいいと思いませんか？" xmlUrl="https://naoto.github.io/mangacross-feed/feeds/hakataben.xml" htmlUrl="https://mangacross.jp/api/comics/hakataben.json?type=public"/>
+        <outline type="rss" attr="博多弁の女の子はかわいいと思いませんか？" title="博多弁の女の子はかわいいと思いませんか？" xmlUrl="https://naoto.github.io/mangacross-feed/feeds/hakataben.xml" htmlUrl="https://mangacross.jp/api/comics/hakataben.json?type=public"/>
       
     </outline>
   </body>
