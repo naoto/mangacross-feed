@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 15 Aug 2022 15:18:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Aug 2022 15:17:53 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.102]]></title>
+      <link>https://mangacross.jp/comics/yabai/109</link>
+      
+        <pubDate>Tue, 16 Aug 2022 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は他人]]></description>
+      <content:encoded><![CDATA[僕は他人]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/109</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/3EaG2hNkqWDsILq5EqjA_Wlb5_7UInYNSMggQuGrhFU/episode_thumbnail/thumb_double.png?1660291415" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.101]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/58</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/3W1bAy0tzskQSBnitFpctc_doqVU6AoTfAk6H-XQz2Y/episode_thumbnail/thumb_double.png?1599452316" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.52]]></title>
-      <link>https://mangacross.jp/comics/yabai/57</link>
-      
-        <pubDate>Tue, 25 Aug 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕らは少し似ている]]></description>
-      <content:encoded><![CDATA[僕らは少し似ている]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/57</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/9UYaOXgqCjOshdWdB90K7WPuX3WH0m7N1bp2QMecLZg/episode_thumbnail/thumb_double.png?1597990420" length="0" type=""/>
       
     </item>
     
