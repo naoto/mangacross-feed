@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/hakataben.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/hakataben.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 22 Aug 2022 15:19:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Aug 2022 15:17:23 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第69話]]></title>
+      <link>https://mangacross.jp/comics/hakataben/78</link>
+      
+        <pubDate>Tue, 23 Aug 2022 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[高すぎるチョモランマ]]></description>
+      <content:encoded><![CDATA[高すぎるチョモランマ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/78</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/9nhVhfVU7Z9Sdzln2M-SPeCsFl5S6Cdw1DiTrSndQ0c/episode_thumbnail/thumb_double.png?1660809545" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第68話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/76</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/mxSsAf2IUApM60sZyUFQJA_UPKQ_kUPomXMmxgM7tvg/episode_thumbnail/thumb_double.png?1658729102" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第66話]]></title>
-      <link>https://mangacross.jp/comics/hakataben/75</link>
-      
-        <pubDate>Tue, 14 Jun 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[やーっ！ で立ち上がれ！]]></description>
-      <content:encoded><![CDATA[やーっ！ で立ち上がれ！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/75</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/xjm4vXsPQq-swCmlq97PexbSxQNXcsqZGGcLVlsLmhk/episode_thumbnail/thumb_double.png?1654754622" length="0" type=""/>
       
     </item>
     
