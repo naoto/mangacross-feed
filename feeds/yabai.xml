@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 29 Aug 2022 15:18:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Aug 2022 15:17:16 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.103]]></title>
+      <link>https://mangacross.jp/comics/yabai/110</link>
+      
+        <pubDate>Tue, 30 Aug 2022 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は回想した]]></description>
+      <content:encoded><![CDATA[僕は回想した]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/110</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/xmCMmraJk-NPyFZCRCWqXg-zUuApO1ZtCe2xMUzoLY8/episode_thumbnail/thumb_double.png?1661482908" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.102]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/59</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/ihlAdk5YuNdd8Ki6uOtzRrTsF43V4peBO1PJOFZzZqk/episode_thumbnail/thumb_double.png?1600397608" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.53]]></title>
-      <link>https://mangacross.jp/comics/yabai/58</link>
-      
-        <pubDate>Tue, 08 Sep 2020 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は声が聞きたい]]></description>
-      <content:encoded><![CDATA[僕は声が聞きたい]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/58</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/3W1bAy0tzskQSBnitFpctc_doqVU6AoTfAk6H-XQz2Y/episode_thumbnail/thumb_double.png?1599452316" length="0" type=""/>
       
     </item>
     
