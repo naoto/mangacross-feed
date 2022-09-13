@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 12 Sep 2022 15:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Sep 2022 15:19:15 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.104]]></title>
+      <link>https://mangacross.jp/comics/yabai/111</link>
+      
+        <pubDate>Tue, 13 Sep 2022 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕の方が好きだ]]></description>
+      <content:encoded><![CDATA[僕の方が好きだ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/111</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/XgWex7mzDVNVOfhpciANwtchvQkqYqnB82oJj_t1UaQ/episode_thumbnail/thumb_double.png?1662699944" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.103]]></title>
@@ -34,48 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/109</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/3EaG2hNkqWDsILq5EqjA_Wlb5_7UInYNSMggQuGrhFU/episode_thumbnail/thumb_double.png?1660291415" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.101]]></title>
-      <link>https://mangacross.jp/comics/yabai/108</link>
-      
-        <pubDate>Tue, 02 Aug 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は山田に近づきたい]]></description>
-      <content:encoded><![CDATA[僕は山田に近づきたい]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/108</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/suLQXP5wmUrTc7Qa0ZW5lKI362IiMQHZA75Y3kPR2Xo/episode_thumbnail/thumb_double.png?1659071950" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[番外編]]></title>
-      <link>https://mangacross.jp/comics/yabai/107</link>
-      
-        <pubDate>Tue, 19 Jul 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/107</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/krn7ptHb8sPuxx871IXgQ3OHPonbGqJ0SpOxanX96Jc/episode_thumbnail/thumb_double.png?1657853561" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.100]]></title>
-      <link>https://mangacross.jp/comics/yabai/106</link>
-      
-        <pubDate>Tue, 05 Jul 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕の愛しき狭い世界]]></description>
-      <content:encoded><![CDATA[僕の愛しき狭い世界]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/106</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/WIPf67bW_m3ikVasfRPpT-761NgB_xb83Y9GbnOe2tI/episode_thumbnail/thumb_double.png?1656573686" length="0" type=""/>
       
     </item>
     
@@ -146,6 +118,34 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/3</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/SoFRws9EoeIb8meNq2LWDLcfRoetoPHQgL-cy75qqAw/episode_thumbnail/thumb_double.png?1573009057" length="0" type=""/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Karte.2]]></title>
+      <link>https://mangacross.jp/comics/yabai/2</link>
+      
+        <pubDate>Wed, 04 Apr 2018 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は憤怒した]]></description>
+      <content:encoded><![CDATA[僕は憤怒した]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/2</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/1xNCKi9db-ea47qK2z-Zwtf8SUBRyZsujmpwKhXGZgY/episode_thumbnail/thumb_double.png?1573008840" length="0" type=""/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Karte.1]]></title>
+      <link>https://mangacross.jp/comics/yabai/1</link>
+      
+        <pubDate>Tue, 03 Apr 2018 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は奪われた]]></description>
+      <content:encoded><![CDATA[僕は奪われた]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/rcU8BTrru6C1F0m78PRhYXHhxd-HOJy9oXYnFP0gOig/episode_thumbnail/thumb_double.png?1573008783" length="0" type=""/>
       
     </item>
     
