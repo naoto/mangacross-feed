@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 10 Oct 2022 15:24:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Oct 2022 15:22:59 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.106]]></title>
+      <link>https://mangacross.jp/comics/yabai/113</link>
+      
+        <pubDate>Tue, 11 Oct 2022 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕らは負けている]]></description>
+      <content:encoded><![CDATA[僕らは負けている]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/113</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/MP2afeZAmh091rWkMR1Fxhf6CoP3t8pdXob7mayRAo0/episode_thumbnail/thumb_double.png?1665121954" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.105]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/111</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/XgWex7mzDVNVOfhpciANwtchvQkqYqnB82oJj_t1UaQ/episode_thumbnail/thumb_double.png?1662699944" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.103]]></title>
-      <link>https://mangacross.jp/comics/yabai/110</link>
-      
-        <pubDate>Tue, 30 Aug 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は回想した]]></description>
-      <content:encoded><![CDATA[僕は回想した]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/110</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/xmCMmraJk-NPyFZCRCWqXg-zUuApO1ZtCe2xMUzoLY8/episode_thumbnail/thumb_double.png?1661482908" length="0" type=""/>
       
     </item>
     
