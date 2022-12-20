@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 19 Dec 2022 15:16:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Dec 2022 15:16:08 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.111]]></title>
+      <link>https://mangacross.jp/comics/yabai/118</link>
+      
+        <pubDate>Tue, 20 Dec 2022 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕の恋心]]></description>
+      <content:encoded><![CDATA[僕の恋心]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/118</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/6ldDEdry2GwjRlk3ftf2bokxjzeqG_JTve--6S0WsMU/episode_thumbnail/thumb_double.png?1671427960" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.110]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/116</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/cHoYQEQpZLyu_FD0cRu3iE0Gtxo9uc_WtaHse6wg7OM/episode_thumbnail/thumb_double.png?1668748270" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.108]]></title>
-      <link>https://mangacross.jp/comics/yabai/115</link>
-      
-        <pubDate>Tue, 08 Nov 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は気が付かない]]></description>
-      <content:encoded><![CDATA[僕は気が付かない]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/115</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/0RYryL16Z2T8jUyJn3MuBnFOHPkEvbltl2QXBhiSKjA/episode_thumbnail/thumb_double.png?1667789835" length="0" type=""/>
       
     </item>
     
