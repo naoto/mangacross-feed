@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 23 Jan 2023 15:15:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2023 15:14:41 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.113]]></title>
+      <link>https://mangacross.jp/comics/yabai/120</link>
+      
+        <pubDate>Tue, 24 Jan 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[私の恋心]]></description>
+      <content:encoded><![CDATA[私の恋心]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/120</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/YOsr2atOjMsWMQJTbIlR4Jil7xL_jRQx6ZFU5jEzHmo/episode_thumbnail/thumb_double.png?1674182722" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.112]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/118</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/6ldDEdry2GwjRlk3ftf2bokxjzeqG_JTve--6S0WsMU/episode_thumbnail/thumb_double.png?1671427960" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.110]]></title>
-      <link>https://mangacross.jp/comics/yabai/117</link>
-      
-        <pubDate>Tue, 06 Dec 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は伝えたい]]></description>
-      <content:encoded><![CDATA[僕は伝えたい]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/117</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/6YO8OHsZiLVEfzGYNq5CUN4Dc3D-6NGDyEgRHkAdX-o/episode_thumbnail/thumb_double.png?1669876266" length="0" type=""/>
       
     </item>
     
