@@ -14,3 +14,7 @@ pages:
     title: 博多弁の女の子はかわいいと思いませんか？
     url: https://mangacross.jp/api/comics/hakataben.json?type=public
     <<: *selectors
+  - id: "tonari"
+    title: 隣のお姉さんが好き
+    uurl: https://mangacross.jp/api/comics/negasuki.json?type=public
+    <<: *selectors
