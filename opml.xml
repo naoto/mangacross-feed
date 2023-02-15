@@ -10,6 +10,8 @@
       
         <outline type="rss" attr="博多弁の女の子はかわいいと思いませんか？" title="博多弁の女の子はかわいいと思いませんか？" xmlUrl="https://naoto.github.io/mangacross-feed/feeds/hakataben.xml" htmlUrl="https://mangacross.jp/api/comics/hakataben.json?type=public"/>
       
+        <outline type="rss" attr="隣のお姉さんが好き" title="隣のお姉さんが好き" xmlUrl="https://naoto.github.io/mangacross-feed/feeds/tonari.xml" htmlUrl="https://mangacross.jp/api/comics/negasuki.json?type=public"/>
+      
     </outline>
   </body>
 </opml>
