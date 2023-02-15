@@ -16,5 +16,5 @@ pages:
     <<: *selectors
   - id: "tonari"
     title: 隣のお姉さんが好き
-    uurl: https://mangacross.jp/api/comics/negasuki.json?type=public
+    url: https://mangacross.jp/api/comics/negasuki.json?type=public
     <<: *selectors
