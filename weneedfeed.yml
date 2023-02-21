@@ -18,3 +18,7 @@ pages:
     title: 隣のお姉さんが好き
     url: https://mangacross.jp/api/comics/negasuki.json?type=public
     <<: *selectors
+  - id: "syokubutu"
+    title: 宮廷をクビになった植物魔導師はスローライフを謳歌する
+    url: https://mangacross.jp/api/comics/shokubutsumadoushi.json?type=public
+    <<: *selectors
