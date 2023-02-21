@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[宮廷をクビになった植物魔導師はスローライフを謳歌する]]></title>
+    <link>https://mangacross.jp/api/comics/shokubutsumadoushi.json?type=public</link>
+    <atom:link href="https://naoto.github.io/mangacross-feed/feeds/syokubutu.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Tue, 21 Feb 2023 11:42:32 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第1話前編]]></title>
+      <link>https://mangacross.jp/comics/shokubutsumadoushi/1</link>
+      
+        <pubDate>Tue, 21 Feb 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[植物魔導師、辺境へと赴く]]></description>
+      <content:encoded><![CDATA[植物魔導師、辺境へと赴く]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/StyYc-5ZSttu4G5ZMHRWioBusqOCWQQIWHJvDK1StYY/episode_thumbnail/thumb_double.png?1676605657" length="0" type=""/>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -10,6 +10,8 @@
       
         <outline type="rss" attr="博多弁の女の子はかわいいと思いませんか？" title="博多弁の女の子はかわいいと思いませんか？" xmlUrl="https://naoto.github.io/mangacross-feed/feeds/hakataben.xml" htmlUrl="https://mangacross.jp/api/comics/hakataben.json?type=public"/>
       
+        <outline type="rss" attr="宮廷をクビになった植物魔導師はスローライフを謳歌する" title="宮廷をクビになった植物魔導師はスローライフを謳歌する" xmlUrl="https://naoto.github.io/mangacross-feed/feeds/syokubutu.xml" htmlUrl="https://mangacross.jp/api/comics/shokubutsumadoushi.json?type=public"/>
+      
         <outline type="rss" attr="隣のお姉さんが好き" title="隣のお姉さんが好き" xmlUrl="https://naoto.github.io/mangacross-feed/feeds/tonari.xml" htmlUrl="https://mangacross.jp/api/comics/negasuki.json?type=public"/>
       
     </outline>
