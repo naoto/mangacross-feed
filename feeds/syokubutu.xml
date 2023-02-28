@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/shokubutsumadoushi.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/syokubutu.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 27 Feb 2023 15:15:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Feb 2023 15:15:45 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第1話後編]]></title>
+      <link>https://mangacross.jp/comics/shokubutsumadoushi/2</link>
+      
+        <pubDate>Tue, 28 Feb 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[植物魔導師、辺境へと赴く]]></description>
+      <content:encoded><![CDATA[植物魔導師、辺境へと赴く]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/2</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/FlLYk_gAJlfCWAvVJjy84gdR21M6smzBlEYfe3R59JY/episode_thumbnail/thumb_double.png?1677208330" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第1話前編]]></title>
