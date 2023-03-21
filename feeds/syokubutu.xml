@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/shokubutsumadoushi.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/syokubutu.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 20 Mar 2023 15:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Mar 2023 15:12:39 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第2話]]></title>
+      <link>https://mangacross.jp/comics/shokubutsumadoushi/3</link>
+      
+        <pubDate>Tue, 21 Mar 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[人工精霊]]></description>
+      <content:encoded><![CDATA[人工精霊]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/3</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/OB5cFmkipDwBqFV7mmRcUPpM9BditlxXaOwdCqxlzNg/episode_thumbnail/thumb_double.png?1679021383" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第1話後編]]></title>
