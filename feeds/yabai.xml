@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 03 Apr 2023 15:13:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2023 15:13:36 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[特別編]]></title>
+      <link>https://mangacross.jp/comics/yabai/125</link>
+      
+        <pubDate>Tue, 04 Apr 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[突撃！ アフレコレポート!!]]></description>
+      <content:encoded><![CDATA[突撃！ アフレコレポート!!]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/125</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Qz7pbmZh60oxzncoXm3uL5e6MDqMZQvtUv2XwSBV8Ig/episode_thumbnail/thumb_double.png?1680242453" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.117]]></title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/2</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/1xNCKi9db-ea47qK2z-Zwtf8SUBRyZsujmpwKhXGZgY/episode_thumbnail/thumb_double.png?1573008840" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.1]]></title>
-      <link>https://mangacross.jp/comics/yabai/1</link>
-      
-        <pubDate>Tue, 03 Apr 2018 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は奪われた]]></description>
-      <content:encoded><![CDATA[僕は奪われた]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/1</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/rcU8BTrru6C1F0m78PRhYXHhxd-HOJy9oXYnFP0gOig/episode_thumbnail/thumb_double.png?1573008783" length="0" type=""/>
       
     </item>
     
