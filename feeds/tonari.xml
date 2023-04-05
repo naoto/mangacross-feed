@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/negasuki.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/tonari.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 04 Apr 2023 15:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2023 15:15:32 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第36話]]></title>
+      <link>https://mangacross.jp/comics/negasuki/36</link>
+      
+        <pubDate>Wed, 05 Apr 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[心愛さんの答え]]></description>
+      <content:encoded><![CDATA[心愛さんの答え]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/36</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/kj_nURI0htp5oqkIhs1lN1F0YBtANJ-t0rYPr_RmDlI/episode_thumbnail/thumb_double.png?1680000657" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第35話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/34</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/heTO7Vwrkj2QWpAz0D4DFYHW1h81J6I3PxPNSaaRxCg/episode_thumbnail/thumb_double.png?1677463424" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第33話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/33</link>
-      
-        <pubDate>Wed, 15 Feb 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[眩しいたーくん]]></description>
-      <content:encoded><![CDATA[眩しいたーくん]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/33</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/WbT9J9y_mDTwihza5uP3Q_dI_UBkD3WWpp1dYA9j-6c/episode_thumbnail/thumb_double.png?1676349315" length="0" type=""/>
       
     </item>
     
