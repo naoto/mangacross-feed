@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 10 Apr 2023 15:11:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2023 15:13:51 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.118]]></title>
+      <link>https://mangacross.jp/comics/yabai/126</link>
+      
+        <pubDate>Tue, 11 Apr 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は壁を作っていた]]></description>
+      <content:encoded><![CDATA[僕は壁を作っていた]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/126</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/TiHvwsAY71m6SufGXlwM9tT22RNjB5y4JQETkenzsVQ/episode_thumbnail/thumb_double.png?1680772767" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[特別編]]></title>
@@ -48,20 +62,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/123</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/iatuLSnpc4XROdg1x0ws54DEgEpzVPsV830pZfpuufU/episode_thumbnail/thumb_double.png?1678341422" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.115]]></title>
-      <link>https://mangacross.jp/comics/yabai/122</link>
-      
-        <pubDate>Tue, 28 Feb 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は打ち明けたい]]></description>
-      <content:encoded><![CDATA[僕は打ち明けたい]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/122</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/RJzOtPt58L2aqMZ7mnV08ijww99HoCgiir2i2SfrSh0/episode_thumbnail/thumb_double.png?1677208749" length="0" type=""/>
       
     </item>
     
