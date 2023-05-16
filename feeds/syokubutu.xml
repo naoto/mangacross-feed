@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/shokubutsumadoushi.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/syokubutu.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 15 May 2023 15:13:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2023 15:13:28 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第４話]]></title>
+      <link>https://mangacross.jp/comics/shokubutsumadoushi/5</link>
+      
+        <pubDate>Tue, 16 May 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[春ベリー]]></description>
+      <content:encoded><![CDATA[春ベリー]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/5</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/0Mwz6R0AdPGjjRDqOYUzJXiRlJATCs-wNhkOhh0ZGLQ/episode_thumbnail/thumb_double.png?1683793260" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第3話]]></title>
