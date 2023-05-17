@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/negasuki.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/tonari.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 16 May 2023 15:13:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2023 15:13:29 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第38話]]></title>
+      <link>https://mangacross.jp/comics/negasuki/38</link>
+      
+        <pubDate>Wed, 17 May 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[めちゃくちゃハート見た日]]></description>
+      <content:encoded><![CDATA[めちゃくちゃハート見た日]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/38</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/uWm7WLlAHLK0tRMcMpwh2wlqZlXgrLn4w-lPJtWFh1I/episode_thumbnail/thumb_double.png?1683797350" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第37話]]></title>
