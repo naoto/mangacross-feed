@@ -7,63 +7,7 @@
     <link>https://mangacross.jp/api/comics/shokubutsumadoushi.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/syokubutu.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 07 Jun 2023 15:13:43 +0000</lastBuildDate>
-    
-    <item>
-      <title><![CDATA[第４話]]></title>
-      <link>https://mangacross.jp/comics/shokubutsumadoushi/5</link>
-      
-        <pubDate>Tue, 16 May 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[春ベリー]]></description>
-      <content:encoded><![CDATA[春ベリー]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/5</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/0Mwz6R0AdPGjjRDqOYUzJXiRlJATCs-wNhkOhh0ZGLQ/episode_thumbnail/thumb_double.png?1683793260" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第3話]]></title>
-      <link>https://mangacross.jp/comics/shokubutsumadoushi/4</link>
-      
-        <pubDate>Tue, 18 Apr 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[花人族]]></description>
-      <content:encoded><![CDATA[花人族]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/4</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/6_uhiuYi2EHt_WJwR7TUi7xFdxjwqOtFwAo6AS2ogsg/episode_thumbnail/thumb_double.png?1681715809" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第2話]]></title>
-      <link>https://mangacross.jp/comics/shokubutsumadoushi/3</link>
-      
-        <pubDate>Tue, 21 Mar 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[人工精霊]]></description>
-      <content:encoded><![CDATA[人工精霊]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/3</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/OB5cFmkipDwBqFV7mmRcUPpM9BditlxXaOwdCqxlzNg/episode_thumbnail/thumb_double.png?1679021383" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第1話後編]]></title>
-      <link>https://mangacross.jp/comics/shokubutsumadoushi/2</link>
-      
-        <pubDate>Tue, 28 Feb 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[植物魔導師、辺境へと赴く]]></description>
-      <content:encoded><![CDATA[植物魔導師、辺境へと赴く]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/2</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/FlLYk_gAJlfCWAvVJjy84gdR21M6smzBlEYfe3R59JY/episode_thumbnail/thumb_double.png?1677208330" length="0" type=""/>
-      
-    </item>
+    <lastBuildDate>Thu, 08 Jun 2023 15:13:03 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第1話前編]]></title>
