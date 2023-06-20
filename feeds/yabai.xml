@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 19 Jun 2023 15:13:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2023 15:13:06 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.123]]></title>
+      <link>https://mangacross.jp/comics/yabai/131</link>
+      
+        <pubDate>Tue, 20 Jun 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は聞きたい]]></description>
+      <content:encoded><![CDATA[僕は聞きたい]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/131</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/48C9sysYyEWAvVVJ4S4LZat7hGZALHJ1swREuGtNdT8/episode_thumbnail/thumb_double.png?1686871856" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.122]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/129</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/4qHITLiPzzpoiR88oKa-Zv_ELtj2ZTRy5XbOduLn8NY/episode_thumbnail/thumb_double.png?1684464416" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.120]]></title>
-      <link>https://mangacross.jp/comics/yabai/128</link>
-      
-        <pubDate>Tue, 09 May 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕らは酔っている]]></description>
-      <content:encoded><![CDATA[僕らは酔っている]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/128</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/CkyVB84Y56gkfzXWvygYkVgLJvCjyRtLkw0KXJz8PT4/episode_thumbnail/thumb_double.png?1682944787" length="0" type=""/>
       
     </item>
     
