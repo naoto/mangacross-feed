@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/negasuki.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/tonari.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 20 Jun 2023 15:13:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2023 15:13:02 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第40話]]></title>
+      <link>https://mangacross.jp/comics/negasuki/40</link>
+      
+        <pubDate>Wed, 21 Jun 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[じゃあ笑っていこうかな]]></description>
+      <content:encoded><![CDATA[じゃあ笑っていこうかな]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/40</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/s_1IEC-s4M7ZW4qzT_VpLrqNJ9oOmrulmdZQPQ3foCg/episode_thumbnail/thumb_double.png?1686807156" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第39話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/38</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/uWm7WLlAHLK0tRMcMpwh2wlqZlXgrLn4w-lPJtWFh1I/episode_thumbnail/thumb_double.png?1683797350" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第37話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/37</link>
-      
-        <pubDate>Wed, 19 Apr 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[つまりどういう意味？]]></description>
-      <content:encoded><![CDATA[つまりどういう意味？]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/37</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/IWjaVeoLylRg59t70H9XVIxJtJo6CO1THPSzSw6UuLg/episode_thumbnail/thumb_double.png?1681362799" length="0" type=""/>
       
     </item>
     
