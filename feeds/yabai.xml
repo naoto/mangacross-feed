@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 03 Jul 2023 15:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2023 15:15:23 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.124]]></title>
+      <link>https://mangacross.jp/comics/yabai/132</link>
+      
+        <pubDate>Tue, 04 Jul 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は勉強中]]></description>
+      <content:encoded><![CDATA[僕は勉強中]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/132</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/eoBUeSu5VSOE3Br1oscnMJP86R5oO6mOooeyyX8P7Uo/episode_thumbnail/thumb_double.png?1688082635" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.123]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/130</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/Cuk4-YG6gPLPbMdOVIhx4SiC3VRqB5KowZd6Sf0drq4/episode_thumbnail/thumb_double.png?1685674696" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.121]]></title>
-      <link>https://mangacross.jp/comics/yabai/129</link>
-      
-        <pubDate>Tue, 23 May 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は自覚が足りない]]></description>
-      <content:encoded><![CDATA[僕は自覚が足りない]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/129</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/4qHITLiPzzpoiR88oKa-Zv_ELtj2ZTRy5XbOduLn8NY/episode_thumbnail/thumb_double.png?1684464416" length="0" type=""/>
       
     </item>
     
