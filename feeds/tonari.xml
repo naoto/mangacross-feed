@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/negasuki.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/tonari.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 04 Jul 2023 15:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2023 15:16:02 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第41話]]></title>
+      <link>https://mangacross.jp/comics/negasuki/41</link>
+      
+        <pubDate>Wed, 05 Jul 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[時かけクリスマス]]></description>
+      <content:encoded><![CDATA[時かけクリスマス]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/41</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/NYVPB2p3XuUurbiB59wZUCEjMN9H1EvvU_64Ult3jRw/episode_thumbnail/thumb_double.png?1688083450" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第40話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/39</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/gx3psc_KfVnrqThzYwSrM5yMzhaaNq8TNKGcaNDzYPc/episode_thumbnail/thumb_double.png?1685602593" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第38話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/38</link>
-      
-        <pubDate>Wed, 17 May 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[めちゃくちゃハート見た日]]></description>
-      <content:encoded><![CDATA[めちゃくちゃハート見た日]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/38</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/uWm7WLlAHLK0tRMcMpwh2wlqZlXgrLn4w-lPJtWFh1I/episode_thumbnail/thumb_double.png?1683797350" length="0" type=""/>
       
     </item>
     
