@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/negasuki.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/tonari.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Sun, 09 Jul 2023 15:13:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2023 15:15:36 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第41話]]></title>
@@ -52,100 +52,72 @@
     </item>
     
     <item>
-      <title><![CDATA[第16話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/16</link>
+      <title><![CDATA[第8話]]></title>
+      <link>https://mangacross.jp/comics/negasuki/8</link>
       
-        <pubDate>Wed, 20 Apr 2022 10:00:00 +0900</pubDate>
+        <pubDate>Wed, 08 Dec 2021 10:00:00 +0900</pubDate>
       
-      <description><![CDATA[そんなことは言わないでほしい]]></description>
-      <content:encoded><![CDATA[そんなことは言わないでほしい]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/16</guid>
+      <description><![CDATA[ちょっと怒った心愛さん]]></description>
+      <content:encoded><![CDATA[ちょっと怒った心愛さん]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/8</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/IlMwyW421P_nVrn2742niu6vglpGojkSpSqlvflzPkE/episode_thumbnail/thumb_double.png?1650334805" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第15話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/15</link>
-      
-        <pubDate>Wed, 06 Apr 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[俺は嫌われてるのか]]></description>
-      <content:encoded><![CDATA[俺は嫌われてるのか]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/15</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/W5pyWOuSEWhUoLIyS7CHN9rv2ML2-n2bSxYYGUuSQZg/episode_thumbnail/thumb_double.png?1649054670" length="0" type=""/>
+        <enclosure url="https://mangacross.jp/images/episode/Udu1JqZCFgxVoqulfp-VGWAF_-_K6rrI3yZyd8ORDk4/episode_thumbnail/thumb_double.png?1638516577" length="0" type=""/>
       
     </item>
     
     <item>
-      <title><![CDATA[第14話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/14</link>
+      <title><![CDATA[第4話]]></title>
+      <link>https://mangacross.jp/comics/negasuki/4</link>
       
-        <pubDate>Wed, 23 Mar 2022 10:00:00 +0900</pubDate>
+        <pubDate>Wed, 13 Oct 2021 10:00:00 +0900</pubDate>
       
-      <description><![CDATA[なんか意地悪な心愛さん]]></description>
-      <content:encoded><![CDATA[なんか意地悪な心愛さん]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/14</guid>
+      <description><![CDATA[あんまり見たくなかった]]></description>
+      <content:encoded><![CDATA[あんまり見たくなかった]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/4</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/lRCnVbCDjPOqo7veOfAXzV-V-eow2Zf7kvo_QzLBz6c/episode_thumbnail/thumb_double.png?1647594434" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第13話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/13</link>
-      
-        <pubDate>Wed, 23 Feb 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[こっちを見ている心愛さん]]></description>
-      <content:encoded><![CDATA[こっちを見ている心愛さん]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/13</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/krbE0waguJlaKt91cAXOhTM-IKHPrXDjAqrg3JhWwyI/episode_thumbnail/thumb_double.png?1645431475" length="0" type=""/>
+        <enclosure url="https://mangacross.jp/images/episode/8INvODp1ECxHZvl5TIlXRGmyB6zSyBuKfPppV4n2OMY/episode_thumbnail/thumb_double.png?1633676708" length="0" type=""/>
       
     </item>
     
     <item>
-      <title><![CDATA[第12話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/12</link>
+      <title><![CDATA[第3話]]></title>
+      <link>https://mangacross.jp/comics/negasuki/3</link>
       
-        <pubDate>Wed, 09 Feb 2022 10:00:00 +0900</pubDate>
+        <pubDate>Wed, 22 Sep 2021 10:00:00 +0900</pubDate>
       
-      <description><![CDATA[悲しそうな心愛さん]]></description>
-      <content:encoded><![CDATA[悲しそうな心愛さん]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/12</guid>
+      <description><![CDATA[脚本の本を持ってる心愛さん]]></description>
+      <content:encoded><![CDATA[脚本の本を持ってる心愛さん]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/3</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/JtVSLoZVYjO19JcblhrL2z42htSyojItunfX3wDd-S0/episode_thumbnail/thumb_double.png?1643875279" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第11話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/11</link>
-      
-        <pubDate>Wed, 26 Jan 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[自分から言ってくれた心愛さん]]></description>
-      <content:encoded><![CDATA[自分から言ってくれた心愛さん]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/11</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/Pac6hVY3GdoVn7lia7WZLvIQgU7RrUN4D-4DkX1jG1Q/episode_thumbnail/thumb_double.png?1643079122" length="0" type=""/>
+        <enclosure url="https://mangacross.jp/images/episode/_erEaOIXpoM9Gdztv9n89Ihdzko1xj0uZGs8DtJbqOM/episode_thumbnail/thumb_double.png?1631861702" length="0" type=""/>
       
     </item>
     
     <item>
-      <title><![CDATA[第10話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/10</link>
+      <title><![CDATA[第2話]]></title>
+      <link>https://mangacross.jp/comics/negasuki/2</link>
       
-        <pubDate>Wed, 12 Jan 2022 10:00:00 +0900</pubDate>
+        <pubDate>Wed, 08 Sep 2021 10:00:00 +0900</pubDate>
       
-      <description><![CDATA[ぶつかっちゃった心愛さん]]></description>
-      <content:encoded><![CDATA[ぶつかっちゃった心愛さん]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/10</guid>
+      <description><![CDATA[ミステリアスな心愛さん]]></description>
+      <content:encoded><![CDATA[ミステリアスな心愛さん]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/2</guid>
       
-        <enclosure url="https://mangacross.jp/images/episode/7XHc0ALdKM7Ll5b2ivvdfL8q8dBk0Csuiv2CaxxckKw/episode_thumbnail/thumb_double.png?1641538810" length="0" type=""/>
+        <enclosure url="https://mangacross.jp/images/episode/S_LKX3pUCGbm9ibM4YxKIZruEiU0S9zn5HVEJHmhiFw/episode_thumbnail/thumb_double.png?1630907260" length="0" type=""/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[第1話]]></title>
+      <link>https://mangacross.jp/comics/negasuki/1</link>
+      
+        <pubDate>Wed, 25 Aug 2021 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[映画を観ている心愛さん]]></description>
+      <content:encoded><![CDATA[映画を観ている心愛さん]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/1</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/fMmaXLsEefAPKx669OlKgAF0UyqA8AdnO5GjqKnZXIc/episode_thumbnail/thumb_double.png?1629355717" length="0" type=""/>
       
     </item>
     
