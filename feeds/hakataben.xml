@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/hakataben.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/hakataben.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 17 Jul 2023 15:15:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2023 15:14:11 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第71話]]></title>
+      <link>https://mangacross.jp/comics/hakataben/80</link>
+      
+        <pubDate>Tue, 18 Jul 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[手紙に思いを込めて]]></description>
+      <content:encoded><![CDATA[手紙に思いを込めて]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/80</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/KHdNl9l3h9zZE52FZDNDajX8hv-1AKvtEyQ2ZQOTzj4/episode_thumbnail/thumb_double.png?1689315523" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第70話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/78</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/9nhVhfVU7Z9Sdzln2M-SPeCsFl5S6Cdw1DiTrSndQ0c/episode_thumbnail/thumb_double.png?1660809545" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第68話]]></title>
-      <link>https://mangacross.jp/comics/hakataben/77</link>
-      
-        <pubDate>Tue, 09 Aug 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[福岡バラエティ]]></description>
-      <content:encoded><![CDATA[福岡バラエティ]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/77</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/cRHTgwNiiChjzM_rYzfCGbKiV0ij4Tp1zYtcAptq59M/episode_thumbnail/thumb_double.png?1659600112" length="0" type=""/>
       
     </item>
     

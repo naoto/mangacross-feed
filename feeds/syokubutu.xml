@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/shokubutsumadoushi.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/syokubutu.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 17 Jul 2023 15:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2023 15:14:14 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第5話後編]]></title>
+      <link>https://mangacross.jp/comics/shokubutsumadoushi/7</link>
+      
+        <pubDate>Tue, 18 Jul 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[豊作すぎると思う]]></description>
+      <content:encoded><![CDATA[豊作すぎると思う]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/7</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/LKVIrUmhSPeL09ow1gkQ8_e1TFn7VgzL03ZZ9shE_mc/episode_thumbnail/thumb_double.png?1689317208" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第5話前編]]></title>
