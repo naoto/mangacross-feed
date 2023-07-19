@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/negasuki.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/tonari.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 18 Jul 2023 15:14:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2023 15:13:35 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第42話]]></title>
+      <link>https://mangacross.jp/comics/negasuki/42</link>
+      
+        <pubDate>Wed, 19 Jul 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[暗くて明るい部屋と心愛さん]]></description>
+      <content:encoded><![CDATA[暗くて明るい部屋と心愛さん]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/42</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/XCX14FRHBCnO0KjQwom5I-W5qyeRxSyFIgno_vh4g_s/episode_thumbnail/thumb_double.png?1689230734" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第41話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/40</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/s_1IEC-s4M7ZW4qzT_VpLrqNJ9oOmrulmdZQPQ3foCg/episode_thumbnail/thumb_double.png?1686807156" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第39話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/39</link>
-      
-        <pubDate>Wed, 07 Jun 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[どういう意味？？]]></description>
-      <content:encoded><![CDATA[どういう意味？？]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/39</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/gx3psc_KfVnrqThzYwSrM5yMzhaaNq8TNKGcaNDzYPc/episode_thumbnail/thumb_double.png?1685602593" length="0" type=""/>
       
     </item>
     
