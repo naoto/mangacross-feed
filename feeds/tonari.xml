@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/negasuki.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/tonari.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 15 Aug 2023 15:12:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2023 15:12:47 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第44話]]></title>
+      <link>https://mangacross.jp/comics/negasuki/44</link>
+      
+        <pubDate>Wed, 16 Aug 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[成長とか未来とかそういうの]]></description>
+      <content:encoded><![CDATA[成長とか未来とかそういうの]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/44</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/5KB5rnPsw73AcxSc41oFFmUyjBKArLKXzCJ6nvHqkDE/episode_thumbnail/thumb_double.png?1691567470" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第43話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/42</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/XCX14FRHBCnO0KjQwom5I-W5qyeRxSyFIgno_vh4g_s/episode_thumbnail/thumb_double.png?1689230734" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第41話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/41</link>
-      
-        <pubDate>Wed, 05 Jul 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[時かけクリスマス]]></description>
-      <content:encoded><![CDATA[時かけクリスマス]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/41</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/NYVPB2p3XuUurbiB59wZUCEjMN9H1EvvU_64Ult3jRw/episode_thumbnail/thumb_double.png?1688083450" length="0" type=""/>
       
     </item>
     
