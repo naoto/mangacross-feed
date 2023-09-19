@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/shokubutsumadoushi.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/syokubutu.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 18 Sep 2023 15:13:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Sep 2023 15:13:33 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第7話]]></title>
+      <link>https://mangacross.jp/comics/shokubutsumadoushi/9</link>
+      
+        <pubDate>Tue, 19 Sep 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[帝国の筋肉皇女]]></description>
+      <content:encoded><![CDATA[帝国の筋肉皇女]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/9</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/jI5l4u_SNJAmCTIxT7p9szrkidd2EuOcvWwtxTWnVC4/episode_thumbnail/thumb_double.png?1694669486" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第6話]]></title>
