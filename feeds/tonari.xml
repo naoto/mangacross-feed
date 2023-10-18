@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/negasuki.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/tonari.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 17 Oct 2023 15:13:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2023 15:13:43 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[最終話]]></title>
@@ -34,20 +34,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/46</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/7iLD17qyfaSnLalGOH3mBNkY1QeAtMzd1tTr2njGW00/episode_thumbnail/thumb_double.png?1694671219" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第45話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/45</link>
-      
-        <pubDate>Wed, 06 Sep 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[心愛さん]]></description>
-      <content:encoded><![CDATA[心愛さん]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/45</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/v1moGHFjYpMX2o5lOR2v5VOzAPf-mosQOxJy5F_ZjDo/episode_thumbnail/thumb_double.png?1693470515" length="0" type=""/>
       
     </item>
     
