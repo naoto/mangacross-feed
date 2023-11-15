@@ -7,21 +7,7 @@
     <link>https://mangacross.jp/api/comics/negasuki.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/tonari.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 14 Nov 2023 15:13:36 +0000</lastBuildDate>
-    
-    <item>
-      <title><![CDATA[最終話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/47</link>
-      
-        <pubDate>Wed, 04 Oct 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[隣のお姉さん]]></description>
-      <content:encoded><![CDATA[隣のお姉さん]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/47</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/RA0WUPnK3M8Mcx_fbsIdAJajYiIWvGoxj_yrKBRFz2M/episode_thumbnail/thumb_double.png?1695874935" length="0" type=""/>
-      
-    </item>
+    <lastBuildDate>Wed, 15 Nov 2023 15:13:59 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第8話]]></title>
