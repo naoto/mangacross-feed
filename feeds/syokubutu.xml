@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/shokubutsumadoushi.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/syokubutu.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 20 Nov 2023 15:14:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2023 15:14:00 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第8話後編]]></title>
+      <link>https://mangacross.jp/comics/shokubutsumadoushi/11</link>
+      
+        <pubDate>Tue, 21 Nov 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[伝えたいこと]]></description>
+      <content:encoded><![CDATA[伝えたいこと]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/11</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/nI6e0EvwGR-yFcZUEhJXW1ab__xJijBnIJysNeDehY0/episode_thumbnail/thumb_double.png?1700108966" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第8話]]></title>
