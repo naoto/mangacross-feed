@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 11 Dec 2023 15:14:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 15:13:57 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.135]]></title>
+      <link>https://mangacross.jp/comics/yabai/143</link>
+      
+        <pubDate>Tue, 12 Dec 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は集中した]]></description>
+      <content:encoded><![CDATA[僕は集中した]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/143</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/XdfBCi7wb_BqrEwP-fk69F7TZuLIvwto-vGLMMPe0_Y/episode_thumbnail/thumb_double.png?1701986580" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.134]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/141</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/MVRm4WoAawEraLT_63ZrFHLQt40cL1vceW1KmW7jqNo/episode_thumbnail/thumb_double.png?1699607296" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.132]]></title>
-      <link>https://mangacross.jp/comics/yabai/140</link>
-      
-        <pubDate>Tue, 31 Oct 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕らの夜は更けていく]]></description>
-      <content:encoded><![CDATA[僕らの夜は更けていく]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/140</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/jl3d8fU2M37JAVSew8wn3-7b5uvyA54-V8CdOx6Sdi0/episode_thumbnail/thumb_double.png?1698312758" length="0" type=""/>
       
     </item>
     
