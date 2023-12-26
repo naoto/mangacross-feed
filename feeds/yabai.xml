@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 25 Dec 2023 15:13:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2023 15:12:35 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.136]]></title>
+      <link>https://mangacross.jp/comics/yabai/144</link>
+      
+        <pubDate>Tue, 26 Dec 2023 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は大切なことを思い出した]]></description>
+      <content:encoded><![CDATA[僕は大切なことを思い出した]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/144</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/Jymje8u6NAotsI-gFkSt8pcHB6a7TGeBnS4Mhe66bug/episode_thumbnail/thumb_double.png?1703233725" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.135]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/142</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/DWgcfxBOXNSTqRDp66dtNEV9xW9skLjkbc5K6cGK960/episode_thumbnail/thumb_double.png?1701062940" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.133]]></title>
-      <link>https://mangacross.jp/comics/yabai/141</link>
-      
-        <pubDate>Tue, 14 Nov 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕は板挟み]]></description>
-      <content:encoded><![CDATA[僕は板挟み]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/141</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/MVRm4WoAawEraLT_63ZrFHLQt40cL1vceW1KmW7jqNo/episode_thumbnail/thumb_double.png?1699607296" length="0" type=""/>
       
     </item>
     
