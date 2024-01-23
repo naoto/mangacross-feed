@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/shokubutsumadoushi.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/syokubutu.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 22 Jan 2024 15:14:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 15:14:27 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第9話 後編]]></title>
+      <link>https://mangacross.jp/comics/shokubutsumadoushi/13</link>
+      
+        <pubDate>Tue, 23 Jan 2024 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[外の世界]]></description>
+      <content:encoded><![CDATA[外の世界]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/13</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/HS34KdrKXBp_AL-vpVqDMWlVSkPvuP1QBHokNVb_9z4/episode_thumbnail/thumb_double.png?1705549687" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第9話前編]]></title>
