@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 26 Feb 2024 15:13:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 15:13:06 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.140]]></title>
+      <link>https://mangacross.jp/comics/yabai/148</link>
+      
+        <pubDate>Tue, 27 Feb 2024 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕らはよくない人間たち]]></description>
+      <content:encoded><![CDATA[僕らはよくない人間たち]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/148</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/R_loqN2ZGFzBhHzzh-Rxxzf5OD0vRcqYt5356XI-PpM/episode_thumbnail/thumb_double.png?1708594386" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.139]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/146</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/wbJ9udoVYHsVMjdGO_vtz5t6HjM1MVT3Cix2gnGgeVQ/episode_thumbnail/thumb_double.png?1706253434" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.137]]></title>
-      <link>https://mangacross.jp/comics/yabai/145</link>
-      
-        <pubDate>Tue, 16 Jan 2024 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕らは自由だ]]></description>
-      <content:encoded><![CDATA[僕らは自由だ]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/145</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/flunlwi9nAjgNXksGy8SiVA7gnsbAruc1ZSN7omjIIk/episode_thumbnail/thumb_double.png?1705020030" length="0" type=""/>
       
     </item>
     
