@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/shokubutsumadoushi.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/syokubutu.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 06 Mar 2024 15:14:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 15:12:59 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第10話]]></title>
@@ -38,7 +38,7 @@
     </item>
     
     <item>
-      <title><![CDATA[第9話前編]]></title>
+      <title><![CDATA[第9話 前編]]></title>
       <link>https://mangacross.jp/comics/shokubutsumadoushi/12</link>
       
         <pubDate>Tue, 19 Dec 2023 10:00:00 +0900</pubDate>
@@ -48,90 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/12</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/4zFTqSm9XSAqT_n-SGvqA0gwY-SI1VIrhpokycTQ-kA/episode_thumbnail/thumb_double.png?1702533394" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第8話後編]]></title>
-      <link>https://mangacross.jp/comics/shokubutsumadoushi/11</link>
-      
-        <pubDate>Tue, 21 Nov 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[伝えたいこと]]></description>
-      <content:encoded><![CDATA[伝えたいこと]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/11</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/nI6e0EvwGR-yFcZUEhJXW1ab__xJijBnIJysNeDehY0/episode_thumbnail/thumb_double.png?1700108966" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第8話]]></title>
-      <link>https://mangacross.jp/comics/shokubutsumadoushi/10</link>
-      
-        <pubDate>Tue, 17 Oct 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[伝えたいこと]]></description>
-      <content:encoded><![CDATA[伝えたいこと]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/10</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/Ov6F7Ptkzzl2qi24yudugLCO2DmGBf1-QUSxaPMeFgI/episode_thumbnail/thumb_double.png?1697077511" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第7話]]></title>
-      <link>https://mangacross.jp/comics/shokubutsumadoushi/9</link>
-      
-        <pubDate>Tue, 19 Sep 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[帝国の筋肉皇女]]></description>
-      <content:encoded><![CDATA[帝国の筋肉皇女]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/9</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/jI5l4u_SNJAmCTIxT7p9szrkidd2EuOcvWwtxTWnVC4/episode_thumbnail/thumb_double.png?1694669486" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第6話]]></title>
-      <link>https://mangacross.jp/comics/shokubutsumadoushi/8</link>
-      
-        <pubDate>Tue, 15 Aug 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[不可思議な法則]]></description>
-      <content:encoded><![CDATA[不可思議な法則]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/8</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/QndQ-za_3hKBeDHJoJ_qxBZXFx9Da5ccow6CU_Pknn0/episode_thumbnail/thumb_double.png?1691634481" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第5話後編]]></title>
-      <link>https://mangacross.jp/comics/shokubutsumadoushi/7</link>
-      
-        <pubDate>Tue, 18 Jul 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[豊作すぎると思う]]></description>
-      <content:encoded><![CDATA[豊作すぎると思う]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/7</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/LKVIrUmhSPeL09ow1gkQ8_e1TFn7VgzL03ZZ9shE_mc/episode_thumbnail/thumb_double.png?1689317208" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第5話前編]]></title>
-      <link>https://mangacross.jp/comics/shokubutsumadoushi/6</link>
-      
-        <pubDate>Tue, 20 Jun 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[豊作すぎると思う]]></description>
-      <content:encoded><![CDATA[豊作すぎると思う]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/6</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/1FCAaC0oW0oQ3ad1L1m9Ib-XL5gN3mfhRt7oRmTa7ig/episode_thumbnail/thumb_double.png?1686806304" length="0" type=""/>
       
     </item>
     
