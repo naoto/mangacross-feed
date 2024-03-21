@@ -7,7 +7,7 @@
     <link>https://mangacross.jp/api/comics/hakataben.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/hakataben.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 20 Mar 2024 15:14:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 15:14:00 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[第72話]]></title>
@@ -48,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/79</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/f34vFfhk2r_Q85JOt9svyXC4SG8IRHiJyLcTHAk3NqQ/episode_thumbnail/thumb_double.png?1687411896" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第69話]]></title>
-      <link>https://mangacross.jp/comics/hakataben/78</link>
-      
-        <pubDate>Tue, 23 Aug 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[高すぎるチョモランマ]]></description>
-      <content:encoded><![CDATA[高すぎるチョモランマ]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/78</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/9nhVhfVU7Z9Sdzln2M-SPeCsFl5S6Cdw1DiTrSndQ0c/episode_thumbnail/thumb_double.png?1660809545" length="0" type=""/>
       
     </item>
     
