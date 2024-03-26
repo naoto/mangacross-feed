@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/hakataben.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/hakataben.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 25 Mar 2024 15:14:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 15:13:00 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第73話]]></title>
+      <link>https://mangacross.jp/comics/hakataben/82</link>
+      
+        <pubDate>Tue, 26 Mar 2024 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[スーパーバス！]]></description>
+      <content:encoded><![CDATA[スーパーバス！]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/82</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/76xfre39yENTg1qoIqHKYIqj2Ole_MR8u2d2JAEzCVs/episode_thumbnail/thumb_double.png?1711002180" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第72話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/80</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/KHdNl9l3h9zZE52FZDNDajX8hv-1AKvtEyQ2ZQOTzj4/episode_thumbnail/thumb_double.png?1689315523" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第70話]]></title>
-      <link>https://mangacross.jp/comics/hakataben/79</link>
-      
-        <pubDate>Tue, 27 Jun 2023 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[肉まんなにつける？]]></description>
-      <content:encoded><![CDATA[肉まんなにつける？]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/hakataben/79</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/f34vFfhk2r_Q85JOt9svyXC4SG8IRHiJyLcTHAk3NqQ/episode_thumbnail/thumb_double.png?1687411896" length="0" type=""/>
       
     </item>
     
