@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/yabai.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/yabai.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 08 Apr 2024 15:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 15:13:04 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Karte.142]]></title>
+      <link>https://mangacross.jp/comics/yabai/150</link>
+      
+        <pubDate>Tue, 09 Apr 2024 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[僕は雑念だらけ]]></description>
+      <content:encoded><![CDATA[僕は雑念だらけ]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/150</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/FMdWvIN5LoZsNavrruyAg74yGRXDnmMRErXbD5c7Pec/episode_thumbnail/thumb_double.png?1712298407" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[Karte.141]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/yabai/148</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/R_loqN2ZGFzBhHzzh-Rxxzf5OD0vRcqYt5356XI-PpM/episode_thumbnail/thumb_double.png?1708594386" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[Karte.139]]></title>
-      <link>https://mangacross.jp/comics/yabai/147</link>
-      
-        <pubDate>Tue, 13 Feb 2024 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[僕らは彷徨う]]></description>
-      <content:encoded><![CDATA[僕らは彷徨う]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/yabai/147</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/r240X3sc4UKo5dG1co8eIiv2HF2GFIZQ2O_TPc9fB1Y/episode_thumbnail/thumb_double.png?1707455857" length="0" type=""/>
       
     </item>
     
