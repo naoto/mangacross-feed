@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/shokubutsumadoushi.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/syokubutu.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 15 Apr 2024 15:13:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 15:13:35 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第12話]]></title>
+      <link>https://mangacross.jp/comics/shokubutsumadoushi/16</link>
+      
+        <pubDate>Tue, 16 Apr 2024 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[わがはいは記者である]]></description>
+      <content:encoded><![CDATA[わがはいは記者である]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/shokubutsumadoushi/16</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/D6WH_9u8wWWaUQK7zypjBM_StfhcJU1a7c6X4wmyrvk/episode_thumbnail/thumb_double.png?1712805829" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第11話]]></title>
