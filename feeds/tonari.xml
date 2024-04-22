@@ -7,77 +7,7 @@
     <link>https://mangacross.jp/api/comics/negasuki.json?type=public</link>
     <atom:link href="https://naoto.github.io/mangacross-feed/feeds/tonari.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Sun, 21 Apr 2024 15:12:58 +0000</lastBuildDate>
-    
-    <item>
-      <title><![CDATA[第8話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/8</link>
-      
-        <pubDate>Wed, 08 Dec 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[ちょっと怒った心愛さん]]></description>
-      <content:encoded><![CDATA[ちょっと怒った心愛さん]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/8</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/Udu1JqZCFgxVoqulfp-VGWAF_-_K6rrI3yZyd8ORDk4/episode_thumbnail/thumb_double.png?1638516577" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第4話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/4</link>
-      
-        <pubDate>Wed, 13 Oct 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[あんまり見たくなかった]]></description>
-      <content:encoded><![CDATA[あんまり見たくなかった]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/4</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/8INvODp1ECxHZvl5TIlXRGmyB6zSyBuKfPppV4n2OMY/episode_thumbnail/thumb_double.png?1633676708" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第3話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/3</link>
-      
-        <pubDate>Wed, 22 Sep 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[脚本の本を持ってる心愛さん]]></description>
-      <content:encoded><![CDATA[脚本の本を持ってる心愛さん]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/3</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/_erEaOIXpoM9Gdztv9n89Ihdzko1xj0uZGs8DtJbqOM/episode_thumbnail/thumb_double.png?1631861702" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第2話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/2</link>
-      
-        <pubDate>Wed, 08 Sep 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[ミステリアスな心愛さん]]></description>
-      <content:encoded><![CDATA[ミステリアスな心愛さん]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/2</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/S_LKX3pUCGbm9ibM4YxKIZruEiU0S9zn5HVEJHmhiFw/episode_thumbnail/thumb_double.png?1630907260" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第1話]]></title>
-      <link>https://mangacross.jp/comics/negasuki/1</link>
-      
-        <pubDate>Wed, 25 Aug 2021 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[映画を観ている心愛さん]]></description>
-      <content:encoded><![CDATA[映画を観ている心愛さん]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/negasuki/1</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/fMmaXLsEefAPKx669OlKgAF0UyqA8AdnO5GjqKnZXIc/episode_thumbnail/thumb_double.png?1629355717" length="0" type=""/>
-      
-    </item>
+    <lastBuildDate>Mon, 22 Apr 2024 15:13:58 +0000</lastBuildDate>
     
   </channel>
 </rss>
